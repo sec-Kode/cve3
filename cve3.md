@@ -1,6 +1,6 @@
-# There is an arbitrary file download vulnerability in the CRMEB backend
+# There is an arbitrary file reading vulnerability in the CRMEB backend
 
-There is an arbitrary file download vulnerability in the `app/adminapi/controller/v1/setting/SystemConfig.php `route.
+There is an arbitrary file reading vulnerability in the `app/adminapi/controller/v1/setting/SystemConfig.php `route.
 
 ![image](https://github.com/user-attachments/assets/ce8fb063-df39-49b4-9884-ca923b687135)
 
